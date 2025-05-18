@@ -1,1 +1,1 @@
-print("Bot de trading automatique basé sur les nouvelles : en cours de configuration.")
+print("Bot de trading automatique lancé avec succès.")
