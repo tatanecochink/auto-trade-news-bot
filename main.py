@@ -1,0 +1,1 @@
+print("Bot de trading automatique basé sur les nouvelles : en cours de configuration.")
