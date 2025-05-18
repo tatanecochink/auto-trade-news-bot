@@ -4,6 +4,7 @@ def lire_nouvelle():
     url = "https://newsapi.org/v2/top-headlines"
     params = {
         "country": "ca",
+        "category": "technology",  # <- Tu peux aussi essayer "business", "health", etc.
         "apiKey": "6811ae98a9554ae490eae22d1ad9ca37"
     }
 
