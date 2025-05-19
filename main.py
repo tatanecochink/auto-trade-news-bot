@@ -1,7 +1,7 @@
 import requests
 
 def lire_nouvelle():
-    url = "https://newsapi.org/v2/top-headlines"
+ url = "https://newsapi.org/v2/everything"
     params = {
         "country": "us",
         "category": "business",
